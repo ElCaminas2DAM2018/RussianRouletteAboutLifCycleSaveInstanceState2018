@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RussianRouletteAbout</string>
+    <string name="reload">Reload</string>
+    <string name="bang">Bang !!!</string>
+    <string name="about">About ...</string>
+    <string name="about_text">This App has been created as an exercise to practice creation of activities. You can use this app for any ise, bla, bla, bla ...</string>
+</resources>
